@@ -1,4 +1,4 @@
-// This program calculates the amount of time it will take to read a file of certain siez
+// This program calculates the amount of time it will take to read a file of certain size
 #include <iostream>
 
 using namespace std;
